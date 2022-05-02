@@ -1,0 +1,12 @@
+{
+	"keywords": {
+		"Nachhaltigkeit": 100.0,
+		"CO2-Ersparnis": 60.0,
+		"Umwelt": 30.0
+	},
+	"categories": {
+		"Umwelt": 100.0,
+		"Bordgastronomie": 60.0,
+		"Sitzreservierung": 20.0
+	}
+}
