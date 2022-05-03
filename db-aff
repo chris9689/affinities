@@ -8,5 +8,10 @@
 		"Umwelt": 100.0,
 		"Bordgastronomie": 60.0,
 		"Sitzreservierung": 20.0
+	},
+	"destination": {
+		"Europa": 100.0,
+		"Deutschland": 40.0,
+		"Sonstiges": 10.0
 	}
 }
