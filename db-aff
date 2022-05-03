@@ -13,5 +13,10 @@
 		"Europa": 100.0,
 		"Deutschland": 40.0,
 		"Sonstiges": 10.0
+	},
+	"food": {
+		"Vegetarisch": 70.0,
+		"Vegan": 50.0,
+		"Schokolade": 30.0
 	}
 }
