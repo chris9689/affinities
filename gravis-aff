@@ -1,0 +1,15 @@
+{
+	"keywords": {
+		"MacBook": 100.0,
+		"iMac": 60.0,
+		"Mac mini": 10.0
+	},
+	"categories": {
+		"Apple Mac": 120.0,
+		"GRAVIS Services": 40.0,
+		"GRAVIS Stores": 20.0
+	},
+	"brand": {
+		"Apple": 70.0,
+		}
+}
