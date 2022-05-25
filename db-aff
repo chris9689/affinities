@@ -1,22 +1,21 @@
 {
-	"keywords": {
-		"Nachhaltigkeit": 100.0,
-		"CO2-Ersparnis": 60.0,
-		"Umwelt": 30.0
+	"brands": {
+		"Amorelie Joy": 100.0,
+		"Amorelie Care": 60.0,
+		"MOQQA": 10.0
 	},
 	"categories": {
-		"Umwelt": 100.0,
-		"Bordgastronomie": 60.0,
-		"Sitzreservierung": 20.0
+		"Bestseller": 100.0,
+		"Sextoys": 60.0,
+		"Care": 20.0
 	},
-	"destination": {
-		"Europa": 100.0,
-		"Deutschland": 40.0,
-		"Sonstiges": 10.0
+	"price-range": {
+		"Mid": 100.0,
+		"High": 40.0
 	},
-	"food": {
-		"Vegetarisch": 70.0,
-		"Vegan": 50.0,
-		"Schokolade": 30.0
+	"ratings": {
+		"5 stars": 70.0,
+		"4.5 stars": 50.0,
+		"4 stars": 20.0
 	}
 }
