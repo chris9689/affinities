@@ -2,23 +2,20 @@
 	"color": {
 		"Black": 100.0,
 		"Navy": 60.0,
-		"Khaki": 60.0
+		"Khaki": 20.0
 	},
 	"categories": {
 		"Walking": 100.0,
 		"Clothing": 80.0,
-		"Equipment": 70.0,
-		"Camping": 60.0,
-		"Rucksack": 20.0,
-		"Walking boots": 10.0
+		"Walking boots": 50.0,
+		"Camping": 20.0
 	},
 	"price-range": {
 		"Mid": 100.0,
 		"High": 40.0
 	},
 	"gender": {
-		"Men": 80.0,
-		"Women": 10.0
+		"Men": 80.0
 	},
 	"ratings": {
 		"4.5 stars": 70.0,
