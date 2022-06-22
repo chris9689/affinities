@@ -1,6 +1,6 @@
 {
 	"brand": {
-		"Tomason": 100.0,
+		"Tomason": 90.0,
 		"Borbet": 60.0,
 		"BBS": 20.0
 	},
@@ -15,10 +15,9 @@
 	},
 	"season": {
 		"Summer": 80.0,
-    "Winter": 40.0
+    		"Winter": 40.0
 	},
-	"bolt circle": {
-		"5x108.00": 50.0,
-		"5x112.00": 30.0
+	"vehicle type": {
+		"BMW F40": 100.0
 		}
 }
