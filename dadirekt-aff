@@ -1,0 +1,11 @@
+{
+	"type": {
+		"Tierschutzversicherung": 80.0
+	},
+	"subtype": {
+		"Hundekrankenversicherung": 60.0
+	},
+	"rate": {
+		"Premium": 100.0
+	}
+}
