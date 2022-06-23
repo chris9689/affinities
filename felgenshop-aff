@@ -1,8 +1,8 @@
 {
 	"brand": {
 		"Tomason": 90.0,
-		"Borbet": 60.0,
-		"BBS": 20.0
+		"CMS": 60.0,
+		"Borbet": 20.0
 	},
 	"inch": {
 		"19": 80.0,
