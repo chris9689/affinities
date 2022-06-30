@@ -1,0 +1,19 @@
+{
+	"categories": {
+		"Damen": 90.0,
+		"Tops": 60.0,
+		"Blusenshirts": 30.0
+	},
+	"color": {
+		"Blau": 60.0,
+		"Weiss": 30.0
+	},
+	"price-range": {
+		"Low": 80.0,
+		"Mid": 30.0
+	},
+	"brand": {
+		"pageOne": 80.0,
+    "ever-me": 40.0
+	}
+}
