@@ -1,0 +1,24 @@
+{
+	"categories": {
+		"Gartenmöbel": 100.0,
+		"Gartendeko": 60.0,
+		"Dekoobjekte": 20.0
+	},
+	"series": {
+		"MIDTOWN": 80.0,
+    "HORIZON": 20.0
+    
+	},
+	"price-range": {
+		"Mittel": 60.0,
+		"Niedrig": 30.0
+	},
+	"campaign": {
+		"Gartenideen-Sale": 50.0
+	},
+	"subcategories": {
+		"Gartensessel": 70.0,
+		"Beistelltisch": 50.0,
+		"Blumentopf": 20.0
+	}
+}
