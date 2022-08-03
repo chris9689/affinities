@@ -1,0 +1,19 @@
+{
+	"categories": {
+		"Hund": 100.0,
+		"Trockenfutter": 80.0
+	},
+	"brand": {
+		"Wolfsblut": 60.0,
+    "WOW": 20.0,
+    "Wildes Land": 20.0
+	},
+	"subcategories": {
+		"Adult": 70.0
+	},
+  "size": {
+		"12,5kg": 60.0,
+    "6x1kg": 30.0,
+    "5kg": 20.0
+	}
+}
