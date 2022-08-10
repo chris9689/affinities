@@ -1,0 +1,17 @@
+{
+	"categories": {
+		"Küchenzubehör": 100.0,
+		"Töpfe|Pfannen|Bräter": 60.0,
+		"Back-|Auflaufformen": 80.0,
+    "Messer|Schneidebretter": 20.0
+	},
+	"type": {
+		"Gusseisen Grillpfanne": 40.0,
+    "Gusseisen Auflaufform": 70.0
+    
+	},
+	"colour": {
+		"mint": 20.0,
+    "grau": 30.0
+	}
+}
