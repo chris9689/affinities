@@ -1,0 +1,22 @@
+{
+	"categories": {
+		"Garten": 100.0,
+		"Grill": 60.0,
+		"Grillzubehör": 20.0
+	},
+	"material": {
+		"Stahl emailliert": 60.0,
+    "Edelstahl": 20.0
+  },
+	"type": {
+		"Holzkohlegrill": 80.0,
+		"Grillthermometer": 30.0
+	},
+	"project": {
+		"Richtig grillen": 50.0
+	},
+	"brand": {
+		"Weber": 70.0,
+		"MEATER": 50.0
+	}
+}
