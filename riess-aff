@@ -1,0 +1,25 @@
+{
+	"Kategorie": {
+		"Möbel": 100.0,
+		"Sitzmöbel": 60.0,
+		"Sofas & Couchs": 40.0,
+    "Tische": 20.0
+	},
+	"Wohnwelten": {
+		"Modernes Design": 60.0,
+    "Skandinavisch wohnen": 30.0,
+    "Industrial loft": 10.0
+  },
+	"Typ": {
+		"Stuhl": 80.0,
+		"Ecksofa": 30.0,
+    "Sessel": 20.0,
+    "Schreibtisch": 50.0
+	},
+	"Farbe": {
+		"dunkelgrau": 50.0,
+    "grau": 30.0,
+    "dunkelgrün": 10.0,
+    "natur": 10.0
+	}
+}
