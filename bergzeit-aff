@@ -1,0 +1,25 @@
+{
+	"categories": {
+		"T-Shirts": 100.0,
+    "Wandern": 60.0,
+		"Wanderbekleidung": 20.0
+	},
+	"color": {
+		"weiss": 60.0,
+    "grün": 20.0
+	},
+	"gender": {
+		"Herren": 80.0
+	},
+	"campaign": {
+		"Sommer-Sale": 50.0
+	},
+  "filter": {
+		"Herren": 60.0,
+    "Nachhaltigkeit": 40.0
+	},
+	"brands": {
+		"Mammut": 70.0,
+    "Ortovox": 30.0
+	}
+}
