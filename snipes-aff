@@ -1,0 +1,23 @@
+{
+	"categories": {
+		"Men": 100.0,
+		"Clothing": 60.0,
+		"T-Shirts": 50.0
+	},
+	"brand": {
+		"adidas Originals": 70.0    
+	},
+  "campaign": {
+		"Sale": 40.0,
+    "Online only": 60.0
+	},
+  "material": {
+		"cotton": 50.0
+	},
+  "fit": {
+		"Regular": 40.0
+	},
+	"colour": {
+		"almost blue": 30.0
+	}
+}
