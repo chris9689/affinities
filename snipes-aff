@@ -17,6 +17,9 @@
   "fit": {
 		"Regular": 40.0
 	},
+	 "size": {
+		"L": 60.0
+	},
 	"colour": {
 		"almost blue": 30.0
 	}
