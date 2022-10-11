@@ -1,0 +1,16 @@
+{
+	"categories": {
+		"Jewelry": 100.0
+	},
+	"color": {
+		"White": 60.0,
+		"Rose-gold": 40.0
+	},
+	"Label": {
+		"New-In": 50.0
+	},
+	"subcategories": {
+		"Earring": 70.0,
+		"Necklace": 50.0
+	}
+}
