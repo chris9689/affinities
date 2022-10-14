@@ -1,0 +1,11 @@
+{
+	"type": {
+		"Loans": 90.0,
+    "Leasing": 70.0
+	},
+	"subtype": {
+		"Cash Loan": 60.0,
+    "Car Leasing": 50.0,
+    "Financing Plus": 40.0
+	}
+}
