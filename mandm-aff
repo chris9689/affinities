@@ -1,0 +1,25 @@
+{
+	"status": {
+		"None": 80.0
+	},
+	"airports": {
+		"DUS": 60.0,
+    "FRA": 40.0,
+    "CGN": 20.0
+	},
+	"airlines": {
+		"Eurowings": 90.0,
+    "LOT": 40.0,
+    "Lufthansa": 30.0
+	},
+  "credit card": {
+		"Gold": 100.0
+	},
+  "card usage": {
+		"Low": 50.0
+	},
+    "booking type": {
+		"Economy": 90.0,
+    "Business": 40.0
+	}
+}
