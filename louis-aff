@@ -14,10 +14,10 @@
 	"season": {
 		"Summer": 50.0
 	},
-  "keywords": {
+  	"keywords": {
 		"Smart touch": 50.0,
-    "Mesh-Textilgewebe": 30.0,
-    "Wildleder": 20.0,
+    		"Mesh-Textilgewebe": 30.0,
+    		"Wildleder": 20.0
 	},
 	"color": {
 		"SCHW/ORANGE": 70.0
