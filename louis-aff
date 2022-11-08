@@ -1,0 +1,25 @@
+{
+	"brand": {
+		"Dainese": 90.0
+	},
+	"category": {
+		"Bekleidung&Helme": 30.0,
+		"Handschuhe": 50.0,
+		"Cityhandschuhe": 80.0
+	},
+	"price-range": {
+		"Low": 80.0,
+		"Mid": 20.0
+	},
+	"season": {
+		"Summer": 50.0
+	},
+  "keywords": {
+		"Smart touch": 50.0,
+    "Mesh-Textilgewebe": 30.0,
+    "Wildleder": 20.0,
+	},
+	"color": {
+		"SCHW/ORANGE": 70.0
+		}
+}
