@@ -1,25 +1,24 @@
 {
-	"categories": {
-		"Mobile": 100.0,
-		"Smartphone": 60.0
-	},
+  "categories": {
+    "Mobile": 100,
+    "Smartphone": 60
+  },
   "color": {
-		"Graphite": 60.0
-	},
-	"brand": {
-		"Samsung": 60.0
-	},
-	"keywords": {
-		"128GB": 50.0,
-    "Android" 40.0,
-    "6,7 Display" 30.0,
-    "12MP Camera" 30.0
-    
-	},
+    "Graphite": 60
+  },
+  "brand": {
+    "Samsung": 60
+  },
+  "keywords": {
+    "128GB": 50,
+    "Android": 40,
+    "6-7 Display": 30,
+    "12MP Camera": 20
+  },
   "campaign": {
-		"START": 50.0
-	},
-	"type": {
-		"Samsung Galaxy Z Flip4": 70.0
-	}
+    "START": 50
+  },
+  "type": {
+    "Samsung Galaxy Z Flip4": 70
+  }
 }
