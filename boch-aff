@@ -1,6 +1,6 @@
 {
 	"material": {
-		"Premium Porcelain": 30.0
+		"Porcelain": 30.0
 	},
 	"category": {
 		"Sale": 80.0,
@@ -8,7 +8,7 @@
     "Table set": 40.0
 	},
 	"season": {
-		"Winter": 50.0
+		"Winter": 40.0
 	},
   "collection": {
 		"Wonderful World White": 70.0
