@@ -1,0 +1,23 @@
+{
+	"brand": {
+		"Lancôme": 90.0
+	},
+	"category": {
+		"Kosmetika a zdraví": 60.0,
+		"Parfémy": 80.0
+	},
+	"gender": {
+		"Dámské": 70.0
+	},
+	"producer": {
+		"L'Oréal": 30.0
+	},
+	"keywords": {
+		"Produkt roku 2018": 50.0,
+		"Exkluzivní dámská vůně": 30.0,
+		"Parfémované vody": 20.0
+	},
+	"size": {
+		"100ml": 50.0
+	}
+}
