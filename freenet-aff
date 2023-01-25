@@ -1,0 +1,18 @@
+{
+	"type": {
+		"iPhone 14 Pro": 100.0
+	},
+	"categories": {
+		"Mobile": 80.0,
+		"Apple": 40.0
+	},
+  "keywords": {
+		"iOS": 50.0,
+		"128GB": 40.0,
+    "5G": 40.0,
+		"Spaceblack": 30.0
+	},
+	"brand": {
+		"Apple": 70.0
+		}
+}
