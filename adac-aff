@@ -1,0 +1,11 @@
+
+{
+	"type": {
+		"Mitgliedschaft": 100.0,
+    "Services": 80.0
+	},
+	"subtype": {
+		"Basisschutz": 90.0,
+    "Rechtsberatung": 70.0
+	}
+}
