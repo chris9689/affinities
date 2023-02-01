@@ -1,0 +1,29 @@
+{
+	"type": {
+		"iPhone 14 pro": 100.0,
+    "Nespresso Essenza mini": 80.0
+	},
+	"categories": {
+		"Telefony": 100.0,
+		"Mobilní telefony": 80.0,
+    "Malé spotřebiče": 60.0,
+    "Kávovary": 50.0,
+    "Kávu od Nespresso": 50.0,
+		"Apple iPhone": 50.0
+	},
+	"brand": {
+		"Apple": 90.0,
+    "Nespresso": 70.0
+	},
+	"color": {
+		"Space black": 80.0,
+    "white": 60.0
+	},
+	"keywords": {
+		"Smartphone": 70.0,
+    "Kávovar na kapsle": 60.0,
+		"Dual SIM": 40.0,
+		"5G": 30.0,
+    "iOS 16": 30.0
+	}
+}
