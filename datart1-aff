@@ -1,0 +1,22 @@
+{
+	"type": {
+		"iPhone 14 pro": 100.0
+	},
+	"categories": {
+		"Telefony": 100.0,
+		"Mobilní telefony": 80.0,
+		"Apple iPhone": 50.0
+	},
+	"brand": {
+		"Apple": 90.0
+	},
+	"color": {
+		"Space black": 80.0
+	},
+	"keywords": {
+		"Smartphone": 70.0,
+		"Dual SIM": 40.0,
+		"5G": 30.0,
+    "iOS 16": 30.0
+	}
+}
