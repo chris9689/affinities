@@ -1,0 +1,25 @@
+{
+   "type":{
+      "Haferdrink ":80.0,
+      "Sorbet":50.0,
+      "Sojadessert":50.0
+   },
+   "flavour":{
+      "Vanille":40.0,
+      "Mango":30.0
+   },
+   "brand":{
+      "Alpro":90.0,
+      "Oatly":70.0,
+      "Del Fiore":50.0
+   },
+   "keywords":{
+      "Vegan":90.0,
+      "Calcium":70.0,
+      "Vitamine":50.0
+   },
+   "origin":{
+      "Belgien":60.0,
+      "Deutschland":60.0
+   }
+}
