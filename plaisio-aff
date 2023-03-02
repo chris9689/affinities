@@ -11,6 +11,9 @@
    "brand":{
       "Apple":90.0
    },
+   "price-level":{
+      "High":70.0
+   },
    "keywords":{
       "Apple":60.0,
       "Retina":50.0,
