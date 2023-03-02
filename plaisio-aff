@@ -1,0 +1,20 @@
+{
+   "category":{
+      "Pc & Peripherals":90.0,
+      "Laptop":80.0,
+      "Laptop Accessoires":50.0
+   },
+   "subcategory":{
+      "Apple MacBook":40.0,
+      "USB-C Adapter":30.0
+   },
+   "brand":{
+      "Apple":90.0
+   },
+   "keywords":{
+      "Apple":60.0,
+      "Retina":50.0,
+      "USB-C":50.0,
+      "SSD":50.0
+   }
+}
