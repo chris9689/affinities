@@ -1,13 +1,19 @@
 {
-	"description": {
-		"MacBook": 100.0,
-		"iMac": 60.0,
-		"Mac mini": 10.0
+	"type": {
+		"MacBook": 100.0
 	},
 	"categories": {
-		"Apple Mac": 120.0,
-		"GRAVIS Services": 40.0,
-		"GRAVIS Stores": 20.0
+		"Apple Mac": 80.0,
+		"Apple MacBook Pro": 80.0
+	},
+	"color": {
+		"silber": 60.0
+		},
+	"keywords": {
+		"14 Zoll": 40.0,
+		"1 TB SSD": 40.0,
+		"Retina XDR": 40.0,
+		"32 GB RAM": 40.0
 	},
 	"brand": {
 		"Apple": 70.0
