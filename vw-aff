@@ -1,0 +1,27 @@
+{
+   "fuel":{
+      "Electric":100.0
+   },
+   "vehicle type":{
+      "Economy":80.0
+   },
+   "colour":{
+      "Gray black":80.0
+   },
+    "seats":{
+      "4":80.0
+   },
+   "gear type":{
+      "Automatic":70.0
+   },
+   "keywords":{
+      "Long distance":85.0,
+      "Tour":60.0,
+      "Pro S":60.0,
+      "Electric":70.0
+   },
+   "categories":{
+      "Electric vehicles":50.0,
+      "ID.3":90.0
+   }
+}
