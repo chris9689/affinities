@@ -1,0 +1,19 @@
+{
+	"brand": {
+		"Tesla": 60.0
+	},
+	"category": {
+		"Electric": 80.0
+	},
+	"type": {
+		"Tesla Model 3": 50.0
+	},
+  "keywords": {
+		"Electric fleet": 50.0,
+    "Automatic": 40.0,
+    "5 doors": 40.0
+	},
+	"code": {
+		"SDAC": 70.0
+		}
+}
