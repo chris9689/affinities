@@ -1,0 +1,26 @@
+{
+   "type":{
+      "Mobile subscription":100.0,
+      "Smartphone":90.0
+   },
+   "subtype":{
+      "With smartphone":100.0
+   },
+   "product":{
+      "Up Mobile L":100.0,
+      "Apple iPhone 14 Pro Max":80.0
+   },
+   "brand":{
+      "Apple":70.0
+   },
+   "keywords":{
+      "Deep Purple":60.0,
+      "128GB":60.0,
+      "24 mo. minimum contract period":60.0,
+      "5G":60.0,
+      "Up to 1 Gbit/s":60.0
+   },
+   "campaign":{
+      "Airpods Pro Gift":90.0
+   }
+}
