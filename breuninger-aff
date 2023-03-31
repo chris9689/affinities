@@ -1,0 +1,23 @@
+{
+	"categories": {
+		"Herren": 100.0
+	},
+	"brand": {
+		"POLO RALPH LAUREN": 80.0
+	},
+	"color": {
+		"blau": 60.0,
+		"grau": 30.0,
+    "print": 30.0
+	},
+	"keywords": {
+		"Regular fit": 50.0,
+    "Jersey": 50.0
+	},
+	"subcategories": {
+		"Sweatjacke": 50.0,
+		"Poloshirt": 50.0,
+		"Hoodie": 70.0,
+    "Hemd": 50.0
+	}
+}
