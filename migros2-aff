@@ -1,0 +1,35 @@
+{
+   "type":{
+      "Pflanzliche Alternativen ":90.0,
+      "Tiernahrung":70.0,
+      "Teigwaren":50.0,
+      "Spirituosen":50.0
+   },
+   "subtype":{
+      "Vegetarische Bällchen ":60.0,
+      "Katzenfutter": 80.0,
+      "Pasta":50.0,
+      "Aperitifs":50.0
+      "Gemüsedreieck":50.0,
+      "Gemüse-Nuggets":50.0
+   },
+   "brand":{
+      "Garden Gourmet":90.0,
+      "V-Love":70.0,
+      "Barilla":50.0,
+      "Aperol":50.0,
+      "Felix": 50.0,
+      "Vital-Balance":50.0,
+      "Cornatur":70.0
+   },
+   "keywords":{
+      "Vegetarisch":80.0,
+      "Vegan":60.0,
+      "Alkohol":40.0,
+      "La Collezione":40.0,
+      "Katzen": 80.0,
+      "Fleischalternative":70.0,
+      "Soja- und Weizenproteine":50.0,
+      "Gemüsebasis":50.0
+   }
+}
