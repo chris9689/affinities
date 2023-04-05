@@ -10,16 +10,15 @@
       "Katzenfutter": 80.0,
       "Pasta":50.0,
       "Aperitifs":50.0,
-      "Gemüsedreieck":50.0,
-      "Gemüse-Nuggets":50.0
+      "Vegane Milchprodukte":50.0
    },
    "brand":{
       "Garden Gourmet":90.0,
-      "V-Love":70.0,
+      "Alnatura":70.0,
       "Barilla":50.0,
       "Aperol":50.0,
       "Felix": 50.0,
-      "Vital-Balance":50.0,
+      "V-Love":50.0,
       "Cornatur":70.0
    },
    "keywords":{
