@@ -4,18 +4,16 @@
    },
    "subtype":{
       "Vegetarische Bällchen ":60.0,
-      "Gemüsedreieck":50.0,
-      "Gemüse-Nuggets":50.0
+      "Vegetarischer Brotaufstrich":50.0
    },
    "brand":{
       "Garden Gourmet":90.0,
-      "V-Love":70.0,
-      "Cornatur":70.0
+      "Alnatura":70.0
    },
    "keywords":{
       "Vegetarisch":90.0,
       "Fleischalternative":70.0,
       "Soja- und Weizenproteine":50.0,
-      "Gemüsebasis":50.0
+      "Vegan":50.0
    }
 }
