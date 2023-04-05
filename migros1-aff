@@ -5,7 +5,7 @@
    "subtype":{
       "Vegetarische Bällchen ":80.0,
       "Gemüsedreieck":50.0,
-      "Gemüse-Nuggets": 50.0
+      "Gemüse-Nuggets":50.0
    },
    "brand":{
       "Garden Gourmet":90.0,
@@ -16,6 +16,6 @@
       "Vegetarisch":90.0,
       "Fleischalternative":70.0,
       "Soja- und Weizenproteine":50.0,
-      "Gemüsebasis": 50.0
+      "Gemüsebasis":50.0
    }
 }
