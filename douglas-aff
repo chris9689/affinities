@@ -1,0 +1,31 @@
+{
+	"brand": {
+		"Douglas Collection": 90.0
+	},
+	"category": {
+		"Men": 80.0,
+		"Face": 50.0
+	},
+	"subcategory": {
+		"Facial care": 100.0,
+		"Face cream": 30.0
+	},
+	"scope": {
+		"Face": 60.0
+	},
+	"product_line": {
+		"Men Energy": 60.0
+	},
+  
+  "skin_type": {
+		"All": 50.0
+	},
+	"keywords": {
+		"padding": 40.0,
+    "moisturizing": 40.0,
+    "caring": 40.0,
+    "regenerating": 40.0,
+    "silky":40.0,
+    "sporty":40.0
+		}
+}
