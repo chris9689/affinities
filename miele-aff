@@ -1,0 +1,22 @@
+{
+	"categories": {
+		"Laundry care": 100.0,
+    "Washing machines": 80.0
+	},
+	"brand": {
+		"W1 Chrome Edition": 90.0
+	},
+	"color": {
+		"lotus white": 60.0
+	},
+	"keywords": {
+		"Label: A": 50.0,
+    "47 kWh": 50.0,
+    "Honeycomb drum": 50.0,
+    "DirectSensor display": 50.0
+	},
+	"subcategories": {
+		"Front loader": 70.0,
+		"8kg": 50.0
+	}
+}
