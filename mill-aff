@@ -1,0 +1,17 @@
+{
+	"type": {
+		"account": 80.0,
+    "card": 60.0,
+    "services": 50.0
+	},
+	"subtype": {
+		"360° account": 60.0,
+    "360° debit card": 50.0,
+    "Card services": 40.0
+	},
+	"name": {
+		"Debit Card": 80.0,
+    "Personal Account": 90.0,
+    "Currency package": 70.0
+	}
+}
