@@ -1,0 +1,19 @@
+{
+	"type": {
+		"Hairspray": 80.0
+	},
+	"subtype": {
+		"Stylingspray": 60.0
+	},
+	"brand": {
+		"Sebastian Professional": 80.0
+	},
+  "code": {
+  "81619461": 70.0
+  },
+  "keywords": {
+    "100ml":60.0,
+    "Curls": 60.0,
+    "Spray": 60.0
+  }
+}
