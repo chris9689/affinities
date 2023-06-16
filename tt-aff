@@ -1,0 +1,24 @@
+{
+	"categories": {
+		"Men": 100.0,
+		"Clothing": 60.0,
+		"Sakko": 50.0
+	},
+	"keywords": {
+		"Reverse collar": 60.0,
+    "Long sleeve": 60.0,
+    "Button bar": 60.0
+	},
+  "campaign": {
+		"Dress-up": 40.0
+  },
+  "material": {
+		"Polyester": 30.0
+	},
+  "fit": {
+		"Regular": 40.0
+	},
+	"color": {
+		"sand": 50.0
+	}
+}
