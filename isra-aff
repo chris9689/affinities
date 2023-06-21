@@ -1,0 +1,16 @@
+{
+	"type": {
+		"Cards": 60.0
+	},
+	"subtype": {
+		"Credit Card": 80.0
+	},
+	"name": {
+		"World elite Mastercard": 80.0
+	},
+  "keywords": {
+    "Travel benefits":60.0,
+    "Travel insurance": 60.0,
+    "VIP services": 60.0
+  }
+}
