@@ -1,0 +1,26 @@
+{
+	"type": {
+		"Cards": 80.0,
+    "Banking": 90.0,
+    "Offers": 60.0,
+    "Investment": 50.0
+	},
+	"subtype": {
+	  "Debit Card": 60.0,
+    "Premium Banking": 70.0,
+    "Loyalty program": 50.0,
+    "Investment options": 50.0
+	},
+	"name": {
+		"Premium Debit Mastercard®": 80.0,
+    "Premium Banking": 90.0,
+    "Investment Premium": 60.0
+	},
+  "keywords": {
+    "Loyalty Program": 60.0,
+    "Bonus Points": 60.0,
+    "Rewards": 60.0,
+    "Investment profile": 50.0,
+    "Personal advisor": 40.0
+  }
+}
