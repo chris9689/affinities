@@ -1,0 +1,19 @@
+{
+   "type":{
+      "Vegan":90.0
+   },
+   "category":{
+      "Favourites ":60.0,
+      "Planted chicken":50.0
+   },
+    "side":{
+      "Jasmin rice":70.0,
+      "Homemade sauce": 60.0 
+},
+   "keywords":{
+      "Vegan":90.0,
+      "Meat alternative":70.0,
+      "Tempura":50.0,
+      "Sweet’n’Sour":50.0
+   }
+}
