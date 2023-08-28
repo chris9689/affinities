@@ -1,24 +1,24 @@
 {
 	"categories": {
-		"Men": 90.0
+		"Men": 100.0
 	},
 	"brand": {
-		"Adidas": 80.0
+		"Adidas": 120.0
 	},
 	"color": {
-		"white": 70.0
+		"white": 100.0
 	},
 	"keywords": {
-		"Basketball": 50.0,
-    "Classic": 50.0
+		"Basketball": 90.0,
+    "Classic": 90.0
 	},
  "material": {
-   "Leather": 60.0,
-   "Synthetic": 60.0
+   "Leather": 80.0,
+   "Synthetic": 80.0
  },
 	"subcategories": {
-		"Footwear": 50.0,
-		"Sneaker": 50.0,
-    "Sale": 50.0
+		"Footwear": 70.0,
+		"Sneaker": 70.0,
+    "Sale": 70.0
 	}
 }
