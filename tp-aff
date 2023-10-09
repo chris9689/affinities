@@ -1,0 +1,22 @@
+{
+	"categories": {
+		"Tennisschlaeger": 100.0
+	},
+	"brand": {
+		"Wilson": 120.0
+	},
+	"color": {
+		"multicolored": 80.0
+	},
+	"keywords": {
+    "Exklusiv": 90.0,
+    "Sale": 95.0,
+    "Minions Clash": 80.0
+	},
+ "type": {
+   "Turnierschlaeger": 80.0
+ },
+	"weight": {
+		"295": 70.0
+	}
+}
