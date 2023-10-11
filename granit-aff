@@ -1,0 +1,23 @@
+{
+	"categories": {
+		"Technical parts": 60.0,
+    "Workshop supplies": 60.0,
+    "Tools": 80.0
+	},
+	"brand": {
+		"GRANIT": 120.0
+	},
+	"keywords": {
+    "Special steel": 70.0,
+    "Handle marking": 70.0,
+    "Dipped grips": 60.0,
+    "Power transmission": 60.0
+	},
+ "type": {
+   "BLACK EDITION": 80.0
+ },
+	"subcategories": {
+		"Screwdriver and bit sets": 90.0,
+    "Pliers": 70.0
+	}
+}
