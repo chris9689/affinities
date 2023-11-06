@@ -1,0 +1,28 @@
+{
+	"brand": {
+		"Tinti": 70.0,
+    "ISANA MEN": 70.0
+	},
+	"category": {
+		"Adventskalender": 80.0,
+		"Pflege": 70.0
+	},
+	"subcategory": {
+		"Männerpflege": 60.0,
+		"Adventskalender für Kinder": 60.0
+	},
+	"product_line": {
+		"ISANA MEN Gesichtspflege": 60.0
+	},
+  "skin_type": {
+		"All": 50.0
+	},
+	"keywords": {
+		"Hyaluron Power": 40.0,
+    "Weihnachten": 40.0,
+    "Adventskalender": 40.0,
+    "Kinder": 40.0,
+    "Gesichtspflege":40.0,
+    "vegan":40.0
+		}
+}
