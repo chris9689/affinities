@@ -1,0 +1,26 @@
+{
+	"categories": {
+		"Men": 100.0
+	},
+	"brand": {
+		"Manor Men": 90.0
+	},
+	"color": {
+		"white": 60.0,
+    "green": 60.0,
+    "ecru":60.0
+	},
+	"keywords": {
+		"Casual": 70.0,
+    "Uni": 70.0,
+    "Vintage": 70.0
+	},
+ "material": {
+   "Cotton": 80.0
+ },
+	"subcategories": {
+		"Sweatshirt": 70.0,
+		"Apparel": 70.0,
+    "Pullover": 70.0
+	}
+}
