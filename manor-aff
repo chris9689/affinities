@@ -13,7 +13,8 @@
 	"keywords": {
 		"Casual": 70.0,
     "Uni": 70.0,
-    "Vintage": 70.0
+    "Vintage": 70.0,
+"Regular Fit": 70.0
 	},
  "material": {
    "Cotton": 80.0
