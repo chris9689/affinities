@@ -1,0 +1,24 @@
+{
+	"categories": {
+		"Men": 100.0,
+    "Watch": 100.0
+	},
+	"type": {
+		"Avenger": 120.0
+	},
+	"color": {
+		"black": 100.0
+  },
+  "subcategory:": {
+		"Avenger": 100.0
+	},
+	"water resistance": {
+		"300m": 70.0
+	},
+ "case_material": {
+   "Ceramic": 80.0
+ },
+	"diameter": {
+		"44mm": 70.0
+	}
+}
