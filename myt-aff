@@ -1,0 +1,20 @@
+{
+	"categories": {
+		"Damen": 100.0
+	},
+	"brand": {
+		"Area": 80.0
+	},
+	"color": {
+		"Rose": 60.0
+	},
+	"keywords": {
+		"Body fit": 50.0,
+    "Elastic": 50.0
+	},
+	"subcategories": {
+		"Kleid": 50.0,
+		"Minikleid": 50.0,
+		"Sale": 70.0
+	}
+}
