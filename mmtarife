@@ -1,0 +1,24 @@
+{
+	"type": {
+		"Phone+Contract": 100.0
+	},
+  "product": {
+		"iPhone 15": 90.0
+	},
+  "operator": {
+		"o2": 90.0,
+    "Vodafone": 60.0
+	},
+	"categories": {
+		"Smartphones": 80.0,
+    "Apple": 70.0
+	},
+  "keywords": {
+		"iOS": 50.0,
+		"Change Bonus": 40.0,
+    "5G": 40.0
+	},
+	"manufacturer": {
+		"Apple": 70.0
+		}
+}
