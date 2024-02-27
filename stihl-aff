@@ -1,18 +1,18 @@
 {
-	"subcategory": {
-		"Heckenscheren": 100.0,
-    "Heckenschneider": 100.0
-	},
-	"type": {
-		"AS-SYSTEM": 120.0
-	},
-  "category:": {
-		"Sägen und Schneiden": 100.0
-	},
- "keywords": {
-   "Akku": 80.0,
-   "Grundstücks- und Gartenpflege": 80.0,
-   "Formschnitte": 60.0,
-   "Trimmen": 60.0
- }
+    "subcategory": {
+        "Heckenscheren": 100,
+        "Heckenschneider": 100
+    },
+    "type": {
+        "AS-SYSTEM": 120
+    },
+    "category:": {
+        "Sägen und Schneiden": 100
+    },
+    "keywords": {
+        "Akku": 80,
+        "Grundstücks- und Gartenpflege": 80,
+        "Formschnitte": 60,
+        "Trimmen": 60
+    }
 }
