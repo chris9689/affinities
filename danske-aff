@@ -1,0 +1,21 @@
+{
+   "Housing type":{
+      "Country":100.0
+   },
+   "Rooms":{
+      "9":80.0
+   },
+   "Energy label":{
+      "F":90.0
+   },
+   "Category":{
+      "Mortgages":100.0
+   },
+   "Location":{
+      "Odense":80.0,
+      "Outside Odense":100.0
+   },
+   "Residence size":{
+      "263qm²":85.0
+   }
+}
