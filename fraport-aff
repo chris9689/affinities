@@ -1,0 +1,24 @@
+
+{
+	"subcategory": {
+        "Sprirituosen": 80.0,
+        "Pflege":90.0
+    },
+    "brand": {
+        "Jura": 70.0,
+        "L'Occitane en Provence": 80.0
+    },
+    "category:": {
+        "Alkoholika & Tabakwaren": 100.0,
+        "Beauty": 100.0
+    },
+    "keywords": {
+        "Neu": 50.0,
+        "Travel Edition": 80.0,
+        "Click & Collect Exclusive": 70.0
+        "Hair care": 60.0
+    },
+    "merchant": {
+        "Frankfurt Duty Free": 80.0,
+    }
+}
