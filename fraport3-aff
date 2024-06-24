@@ -1,23 +1,24 @@
 {
    "subcategory":{
-      "Sprirituosen":80.0,
-      "Pflege":90.0
+      "Fieber":80.0,
+      "Hartkapseln":90.0
    },
    "brand":{
-      "Jura":70.0,
-      "L'Occitane en Provence":80.0
+      "Grippostad":70.0
    },
    "category:":{
-      "Alkoholika & Tabakwaren":100.0,
-      "Beauty":100.0
+      "Bestseller":100.0,
+      "Erkältung":100.0
    },
+   "ingredients": {
+    "Paracetamol": 60.0,
+    "Ascorbinsaeure": 30.0,
+    "Coffein": 30.0,
+    "Chlorphenaminmaleat": 30.0
+  },
    "keywords":{
-      "Neu":50.0,
-      "Travel Edition":80.0,
-      "Click & Collect Exclusive":70.0,
-      "Hair care":60.0
-   },
-   "merchant":{
-      "Frankfurt Duty Free":80.0
+      "Erkältung":50.0,
+      "Grippaler Infekt":80.0
    }
+ }
 }
