@@ -1,17 +1,17 @@
 {
    "categories":{
-      "Bestseller":90.0,
-      "Erkaeltung":90.0
+      "Bestseller": 90.0,
+      "Erkaeltung": 90.0
    },
    "brand":{
-      "Grippostad":80.0
+      "Grippostad": 80.0
    },
    "keywords":{
-      "Erkaeltung":50.0,
-      "Grippaler Infekt":50.0
+      "Erkaeltung": 50.0,
+      "Grippaler Infekt": 50.0
    },
    "subcategories":{
-      "Fieber":50.0,
-      "Hartkapseln":50.0
+      "Fieber": 50.0,
+      "Hartkapseln": 50.0
    }
 }
