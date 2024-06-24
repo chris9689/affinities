@@ -1,0 +1,23 @@
+{
+	"categories": {
+		"Bestseller": 100.0,
+    "Erkältung": 90.0
+	},
+	"brand": {
+		"Grippostad": 80.0
+	},
+	"active_ingredients": {
+		"Paracetamol": 60.0,
+		"Ascorbinsäure": 30.0,
+    "Coffein": 30.0,
+    "Chlorphenaminmaleat": 30.0
+	},
+	"keywords": {
+		"Erkältung": 50.0,
+    "Grippaler Infekt": 50.0
+	},
+	"subcategories": {
+		"Fieber": 50.0,
+		"Hartkapseln": 50.0
+	}
+}
